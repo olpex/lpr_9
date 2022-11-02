@@ -10,13 +10,18 @@ body {
     width: 987px;
     height: 100vh;
     margin: 0 auto;
-    font-family: 'PT Serif';
+    font-family: 'PT Serif', sans-serif;
     font-style: normal;
 }
 img {
     width: 289px;
     height: 170px;
     border-radius: 5px;
+}
+img:hover {
+	transition: 5s;
+	transform: scale(1.2);
+	filter: grayscale();
 }
 p {
     font-family: 'PT Serif', sans-serif;
