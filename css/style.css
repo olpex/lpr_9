@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap'); 
-:root {
-    --color-one: rgba(235, 87, 87, 0);
+@import url(main.css);
 }
 * {
     box-sizing: border-box;
