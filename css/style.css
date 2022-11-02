@@ -19,7 +19,7 @@ img {
     border-radius: 5px;
 }
 p {
-    font-family: 'PT Serif';
+    font-family: 'PT Serif', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
