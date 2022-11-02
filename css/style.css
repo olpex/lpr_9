@@ -16,9 +16,8 @@ body {
 img {
     width: 289px;
     height: 170px;
-    
+    border-radius: 5px;
 }
-
 p {
     font-family: 'PT Serif';
     font-style: normal;
